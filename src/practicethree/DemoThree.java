@@ -6,7 +6,7 @@ public class DemoThree {
 		
 		System.out.println("Practice three for GitHub");
 	}
-public static void getName(String firstName,String lastName) {
+public static void getName(String firstName) {
 	
 	System.out.println("Fieruz");
 }
