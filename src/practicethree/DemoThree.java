@@ -6,9 +6,12 @@ public class DemoThree {
 		
 		System.out.println("Practice three for GitHub");
 	}
+	
+	//Enter FirstName
 public static void getName(String firstName) {
 	
 	System.out.println("Fieruz");
 }
+	
 }
 
