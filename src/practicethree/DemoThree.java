@@ -6,7 +6,7 @@ public class DemoThree {
 		
 		System.out.println("Practice three for GitHub");
 	}
-	
+	//CHANGES FROM GIT
 	//Enter FirstName
 public static void getName(String firstName) {
 	
