@@ -11,6 +11,7 @@ public class DemoThree {
 public static void getName(String firstName) {
 	
 	System.out.println("Fieruz");
+	//name added
 	System.out.println("Saleh");
 }
 	
